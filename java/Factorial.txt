@@ -1,0 +1,23 @@
+import java.io.*;
+public class factorial
+{
+    long factorial(int n)
+    {
+        long f=1;
+        for (int i=1;i<=n;i++)
+        {
+            f=f*i;
+        }
+        return(f);
+    }
+    void main()throws IOException
+    {
+        BufferedReader ob= new BufferedReader( new InputStreamReader( System.in));
+        System.out.println("Enter number");
+        int n =Integer.parseInt(ob.readLine());
+        System.out.println("Factorial is= " +factorial(n));
+    }
+}
+        
+        
+    
