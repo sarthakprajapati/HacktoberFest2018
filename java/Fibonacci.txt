@@ -1,0 +1,35 @@
+import java.io.*;
+public class Fibonacci
+{
+    int x,y,z;
+    int n;
+    void init()
+    {
+        x=0;
+        y=1;
+    }
+    void get()throws IOException
+    {
+        BufferedReader ob= new BufferedReader(new InputStreamReader( System.in));
+        System.out.println("Enter the number of terms you want to generate ");
+        n=Integer.parseInt(ob.readLine());
+    }
+    void generate()
+    {
+        System.out.print(x+" "+y);
+        for (int i=1;i<=(n-2);i++)
+        {
+            z=x+y;
+            System.out.print(" "+z);
+            x=y;
+            y=z;
+        }
+    }
+    void main()throws IOException
+    {
+        Fibonacci ob= new Fibonacci();
+        ob.init();
+        ob.get();
+        ob.generate();
+    }
+}
