@@ -1,0 +1,16 @@
+def removeNode(self,value):
+
+        prev = None
+        curr = self.head
+        while curr:
+            if curr.getData() == value:
+                if prev:
+                    prev.setNextNode(curr.getNextNode())
+                else:
+                    self.head = curr.getNextNode()
+                return True
+                    
+            prev = curr
+            curr = curr.getNextNode()
+            
+        return False
