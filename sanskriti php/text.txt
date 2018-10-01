@@ -1,0 +1,2 @@
+AJAX = Asynchronous JavaScript 
+XML = EXtensible Markup Language My name is Sarthak Prajapati 
