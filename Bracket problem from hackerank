@@ -1,0 +1,72 @@
+
+int main ()
+{
+int C[2];//curly bracket
+C[0]=0;
+C[1]=0;
+int S[2];//Square bracket
+S[0]=0;
+S[1]=0;
+int P[2];//normal bracket'
+P[0]=0;
+P[1]=0;
+char input[];
+int a;
+cin<<a;// to input the number of times the program will run
+
+for(int i=0; i<a;i++)
+   { cin<<input; // user enters the brackets
+        for (j=0;j<length of j;j++)
+           { 
+                if (input[j]=='{')
+	            { if (C[0]!=0)
+			break;
+                      
+                      C[0]=1;
+	              C[1]=-(j+1);}
+
+                if (input[j]=='[')
+	            { if (S[0]!=0)
+			break;
+                      S[0]=1;
+	              S[1]=-(j+1);}
+
+                if (input[j]=='(')
+	            {   if ([0]!=0)
+			break;
+
+                      P[0]=1;
+	              P[1]=-(j+1);}
+
+                if (intput[j]=='}')
+		{ 
+                     if(C[1]!=min(C[1],S[1],P[1]))
+		       { break; }
+		    C[1]=0;
+		    C[0]=0;
+                 }
+		
+                if (intput[j]==']')
+		{ 
+                     if(S[1]!=min(C[1],S[1],P[1]))
+		       { break; }
+		    S[1]=0;
+		    S[0]=0;
+                 }
+
+		
+                if (intput[j]==')')
+		{ 
+                     if(P[1]!=min(C[1],S[1],P[1]))
+		       { break; }
+		    P[1]=0;
+		    P[0]=0;
+                 }
+}
+if(j != its total length)
+{  cout<<"unbalanced"}
+else
+{ cout<<"balanced"}
+}
+return 0;
+ 			}
