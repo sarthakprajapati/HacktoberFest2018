@@ -2,7 +2,7 @@ package songs;
 
 public class SongsDB {
 
-public static String a= "=======AL MAR - ELS MANEL=======\\r\\n" +
+public static String a= "=======AL MAR - ELS MANEL=======\r\n" +
 "Tu i jo hem sopat en bons restaurants,\r\n" + 
 		"tu i jo hem ballat a la llum d'un fanal, \r\n" + 
 		"tu i jo volàvem en un Ford Fiesta groc, \r\n" + 
@@ -43,7 +43,7 @@ public static String a= "=======AL MAR - ELS MANEL=======\\r\\n" +
 		"Al mar! Al mar!\r\n"
 		;
 
-public static String b="=======BABY COME BACK - PLAYER =======\\r\\n" +
+public static String b="=======BABY COME BACK - PLAYER =======\r\n" +
 		"Spending all my nights, all my money going out on the town\r\n" + 
 		"Doing anything just to get you off of my mind\r\n" + 
 		"But when the morning comes, I'm right back where I started again\r\n" + 
@@ -76,7 +76,7 @@ public static String b="=======BABY COME BACK - PLAYER =======\\r\\n" +
 		"I was wrong and I just can't live\r\n"
 ;
 
-public static String c="=======CAMINO SORIA - GABINETE CALIGARI=====\\r\\n"
+public static String c="=======CAMINO SORIA - GABINETE CALIGARI=====\r\n"
 		+ "Todo el mundo sabe que es difícil encontrar \r\n" + 
 		"en la vida un lugar \r\n" + 
 		"donde el tiempo pasa cadencioso y sin pensar \r\n" + 
@@ -1150,66 +1150,9 @@ public static String t="=======TSUBASA WO KUDASAI - Megumi Hayashibara=====\r\n"
 "Tsubasa hatamekase\r\n" + 
 "Yukitai\r\n";
 
-public static String u="=======HALLELUJAH - JEFF BUCLEY=====\r\n" +
-"Well I've heard there was a secret chord\r\n" + 
-"That David played and it pleased the Lord\r\n" + 
-"But you don't really care for music, do you?\r\n" + 
-"Well it goes like this:\r\n" + 
-"The fourth, the fifth, the minor fall and the major lift\r\n" + 
-"The baffled king composing Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Well your faith was strong but you needed proof\r\n" + 
-"You saw her bathing on the roof\r\n" + 
-"Her beauty and the moonlight overthrew ya\r\n" + 
-"She tied you to her kitchen chair\r\n" + 
-"And she broke your throne and she cut your hair\r\n" + 
-"And from your lips she drew the Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"But baby I've been here before\r\n" + 
-"I've seen this room and I've walked this floor\r\n" + 
-"You know, I used to live alone before I knew ya\r\n" + 
-"And I've seen your flag on the marble arch\r\n" + 
-"And love is not a victory march\r\n" + 
-"It's a cold and it's a broken Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Well there was a time when you let me know\r\n" + 
-"What's really going on below\r\n" + 
-"But now you never show that to me do ya\r\n" + 
-"But remember when I moved in you\r\n" + 
-"And the holy dove was moving too\r\n" + 
-"And every breath we drew was Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Maybe there's a God above\r\n" + 
-"But all I've ever learned from love\r\n" + 
-"Was how to shoot somebody who outdrew ya\r\n" + 
-"And it's not a cry that you hear at night\r\n" + 
-"It's not somebody who's seen the light\r\n" + 
-"It's a cold and it's a broken Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah\r\n" + 
-"Hallelujah";
+public static String u="=======U SAID LEE - YUSEFF LEE=====\r\n" +
+"Hola amigo, fuck sintigo. ¿Qué coño me tiras? ¿Qué pasa contigo? se han ido mis papas y estoy solito, por eso puedo tirate este BEEFITO, por eso puedo dejarte, bien calentito! Mi amigo el papito mi presa canario te ha mordido el cuello te ha partido el labio. Tu que eres un LILA  y vienes de BRAVO aprende CANISI o saldrás APALAEADO. MIRAAA LO QUE PASAA CUANDO VENGO YOOOO, AHI VIENE TODO EL FORO A GRITAR UOOO. MIRA LO QUE PASA CUANDO VIENES TU, QUE VIENE TODO EL FORO A DECIRTE BUUU. Tengo un ritmo loco pa que bailes poco a poco, con mis jinchos locos y güeros de moroco, flanagans del barrio alumbrados por un foco, humo de cigarros, PUTAS, LOCOS! ESTO ES LO QUE PASA SI TE METES CON UN LOCO CUYO UNICO SENTIDO DE SU VIDA ES UN FORO, HA VISTO BARRIO SESAMO 1500 VECES, sufre de autismo y se alimenta de peces. BOI ACERMA UNA TORTILLADEBERENJENA CON TUS HUEVOS CABRON SINTIGO CABRON BUAAA! me piro las clases pa cerme unas bases, luego hago unas letras, me fumo unos petas, me vengo al estudio, te saco otro tema, me voy a tu barrio, te pico a la puerta, espero que a que bajes aunque siempre te rajes...  SOY UN BANEADO DE PALA Y DUCADOS, ARTISTA BOHEMIO, TRAPERO DEL GREMIO. KEEP IT REAL NEGRO, MARCANDOME EL ¡BEAT! EN VERDAD ME ALEGRO DE TIRARTE ¡BEEF! MIRAAA LO QUE PASAA CUANDO VENGO YOOOO, AHI VIENE TODO EL FORO A GRITAR UOOO. MIRA LO QUE PASA CUANDO VIENES TU, QUE VIENE TODO EL FORO A DECIRTE BUUU. Tengo un ritmo loco pa que bailes poco a poco, con mis jinchos locos y güeros de moroco, flanagans del barrio alumbrados por un foco, humo de cigarros, PUTAS, LOCOS! ESTO ES LO QUE PASA SI TE METES CON UN LOCO CUYO UNICO SENTIDO DE SU VIDA ES UN FORO, HA VISTO BARRIO SESAMO 1500 VECES, sufre de autismo y se alimenta de peces.";
+
 
 public static String v="=======VILLATRIPAS - JAVIER KRAHE=====\r\n" +
 "Por su gran prosperidad \r\n" + 
